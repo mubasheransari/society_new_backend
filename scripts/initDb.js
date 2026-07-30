@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const { query } = require('../config/db');
 
+
 async function main() {
   const sql = fs.readFileSync(path.join(__dirname, '..', 'db', 'schema.sql'), 'utf8');
   await query(sql);
