@@ -1,0 +1,4 @@
+node_modules/
+.dues.json
+*.db
+.env

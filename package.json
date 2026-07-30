@@ -1,0 +1,30 @@
+{
+  "name": "invoice-backend",
+  "version": "1.0.0",
+  "description": "Invoice backend with Excel upload and Plot No upsert",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "db:init": "node scripts/initDb.js",
+    "db:migrate-json": "node scripts/migrateFromJson.js",
+    "lint": "eslint .",
+    "test": "node scripts/check-syntax.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "xlsx": "^0.18.5",
+    "pg": "^8.13.1",
+    "qrcode": "^1.5.4",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11",
+    "eslint": "^9.15.0"
+  }
+}

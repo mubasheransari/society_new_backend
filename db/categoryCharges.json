@@ -1,0 +1,10 @@
+[
+  { "categoryCode": "LS", "label": "LS", "yard": 98, "ownerActualCharges": 3580, "ownerDiscountedCharges": 3500, "rentalActualCharges": 2500, "rentalDiscountedCharges": 2000 },
+  { "categoryCode": "A", "label": "A", "yard": 112, "ownerActualCharges": 3700, "ownerDiscountedCharges": 3550, "rentalActualCharges": 2500, "rentalDiscountedCharges": 2000 },
+  { "categoryCode": "B", "label": "B", "yard": 128, "ownerActualCharges": 3850, "ownerDiscountedCharges": 3550, "rentalActualCharges": 2500, "rentalDiscountedCharges": 2000 },
+  { "categoryCode": "C1", "label": "C1", "yard": 135, "ownerActualCharges": 4500, "ownerDiscountedCharges": 3850, "rentalActualCharges": 3000, "rentalDiscountedCharges": 2500 },
+  { "categoryCode": "C", "label": "C", "yard": 160, "ownerActualCharges": 4550, "ownerDiscountedCharges": 4000, "rentalActualCharges": 3000, "rentalDiscountedCharges": 2500 },
+  { "categoryCode": "D", "label": "D", "yard": 392, "ownerActualCharges": 5900, "ownerDiscountedCharges": 5500, "rentalActualCharges": 4000, "rentalDiscountedCharges": 3500 },
+  { "categoryCode": "E", "label": "E", "yard": 544, "ownerActualCharges": 6150, "ownerDiscountedCharges": 5650, "rentalActualCharges": 5000, "rentalDiscountedCharges": 4500 },
+  { "categoryCode": "F", "label": "F", "yard": 960, "ownerActualCharges": 8000, "ownerDiscountedCharges": 8000, "rentalActualCharges": 7000, "rentalDiscountedCharges": 6500 }
+]
