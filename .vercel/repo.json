@@ -1,0 +1,11 @@
+{
+  "remoteName": "origin",
+  "projects": [
+    {
+      "id": "prj_DLOqSA6pwzvqvreKqm1eBhs65FMl",
+      "name": "society-new-backend",
+      "directory": ".",
+      "orgId": "team_1xi9mBpw3LWPuSlbqYkYQm4r"
+    }
+  ]
+}
